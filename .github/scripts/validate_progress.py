@@ -111,7 +111,7 @@ def diagnostic(n):
       8:"Vérifiez travail/.gitignore et assurez-vous que secret.txt n'est pas suivi par Git.",
       9:"Le compte rendu doit être committé puis publié sur feature-design.",
       10:"Le travail doit être réalisé sur feature-design puis cette branche doit être fusionnée dans main.",
-      11:"Vérifiez git remote -v puis répondez aux quatre questions du compte rendu.",
+      11:"Vérifiez git remote -v puis répondez aux cinq questions du compte rendu.",
       12:"Vérifiez projet-final.html, votre compte rendu, puis add, commit et push."
     }
     return hints.get(n,"Commencez par git status, relisez le défi puis vérifiez vos fichiers.")
