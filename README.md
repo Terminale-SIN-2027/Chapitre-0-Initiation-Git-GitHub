@@ -3,6 +3,7 @@
 # 🎓 Terminale STI2D — SIN | Git & GitHub
 
 ### 12 défis progressifs pour apprendre Git en pratiquant
+<img src="illustrations/terminale-sin-git-github.png" alt="Formation Git et GitHub — BTS CIEL Lycée Jean Rostand" width="100%">
 
 **Du premier clone à un mini-projet versionné — avec validation automatique**
 
